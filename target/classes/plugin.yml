@@ -1,0 +1,4 @@
+name: Anti-Grief
+version: '1.0-SNAPSHOT'
+main: dev.kutuptilkisi.antigrief.AntiGrief
+api-version: 1.18
